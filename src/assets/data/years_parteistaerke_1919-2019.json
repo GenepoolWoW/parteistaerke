@@ -1,0 +1,2250 @@
+[
+  {
+    "Year": 1919,
+    "parties": [
+      {
+        "Year": 1919,
+        "Partei": "FDP",
+        "Wahlanteil": 28.8,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1919,
+        "Partei": "CVP",
+        "Wahlanteil": 21,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1919,
+        "Partei": "SP",
+        "Wahlanteil": 23.5,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1919,
+        "Partei": "SVP",
+        "Wahlanteil": 15.3,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1919,
+        "Partei": "Dem.",
+        "Wahlanteil": 2,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1919,
+        "Partei": "LPS",
+        "Wahlanteil": 3.8,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1919,
+        "Partei": "EVP",
+        "Wahlanteil": 0.8,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1919,
+        "Partei": "Übrige",
+        "Wahlanteil": 4.8,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1922,
+    "parties": [
+      {
+        "Year": 1922,
+        "Partei": "FDP",
+        "Wahlanteil": 28.3,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1922,
+        "Partei": "CVP",
+        "Wahlanteil": 20.9,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1922,
+        "Partei": "SP",
+        "Wahlanteil": 23.3,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1922,
+        "Partei": "SVP",
+        "Wahlanteil": 16.1,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1922,
+        "Partei": "Dem.",
+        "Wahlanteil": 2.1,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1922,
+        "Partei": "LPS",
+        "Wahlanteil": 4,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1922,
+        "Partei": "EVP",
+        "Wahlanteil": 0.9,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1922,
+        "Partei": "PdA",
+        "Wahlanteil": 1.8,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1922,
+        "Partei": "Übrige",
+        "Wahlanteil": 2.6,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1925,
+    "parties": [
+      {
+        "Year": 1925,
+        "Partei": "FDP",
+        "Wahlanteil": 27.8,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1925,
+        "Partei": "CVP",
+        "Wahlanteil": 20.9,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1925,
+        "Partei": "SP",
+        "Wahlanteil": 25.8,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1925,
+        "Partei": "SVP",
+        "Wahlanteil": 15.3,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1925,
+        "Partei": "Dem.",
+        "Wahlanteil": 2.2,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1925,
+        "Partei": "LPS",
+        "Wahlanteil": 3,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1925,
+        "Partei": "EVP",
+        "Wahlanteil": 0.9,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1925,
+        "Partei": "Übrige",
+        "Wahlanteil": 2.1,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1928,
+    "parties": [
+      {
+        "Year": 1928,
+        "Partei": "FDP",
+        "Wahlanteil": 27.4,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1928,
+        "Partei": "CVP",
+        "Wahlanteil": 21.4,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1928,
+        "Partei": "SP",
+        "Wahlanteil": 27.4,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1928,
+        "Partei": "SVP",
+        "Wahlanteil": 15.8,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1928,
+        "Partei": "Dem.",
+        "Wahlanteil": 1.7,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1928,
+        "Partei": "LPS",
+        "Wahlanteil": 3,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1928,
+        "Partei": "EVP",
+        "Wahlanteil": 0.7,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1928,
+        "Partei": "PdA",
+        "Wahlanteil": 1.8,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1928,
+        "Partei": "Übrige",
+        "Wahlanteil": 0.8,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1931,
+    "parties": [
+      {
+        "Year": 1931,
+        "Partei": "FDP",
+        "Wahlanteil": 26.9,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1931,
+        "Partei": "CVP",
+        "Wahlanteil": 21.4,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1931,
+        "Partei": "SP",
+        "Wahlanteil": 28.7,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1931,
+        "Partei": "SVP",
+        "Wahlanteil": 15.3,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1931,
+        "Partei": "Dem.",
+        "Wahlanteil": 1.2,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1931,
+        "Partei": "LPS",
+        "Wahlanteil": 2.8,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1931,
+        "Partei": "EVP",
+        "Wahlanteil": 1,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1931,
+        "Partei": "PdA",
+        "Wahlanteil": 1.5,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1931,
+        "Partei": "Übrige",
+        "Wahlanteil": 1.1,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1935,
+    "parties": [
+      {
+        "Year": 1935,
+        "Partei": "FDP",
+        "Wahlanteil": 23.7,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1935,
+        "Partei": "CVP",
+        "Wahlanteil": 20.3,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1935,
+        "Partei": "SP",
+        "Wahlanteil": 28,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1935,
+        "Partei": "SVP",
+        "Wahlanteil": 11,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1935,
+        "Partei": "Dem.",
+        "Wahlanteil": 1.2,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1935,
+        "Partei": "LPS",
+        "Wahlanteil": 3.3,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1935,
+        "Partei": "LdU",
+        "Wahlanteil": 4.1,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1935,
+        "Partei": "EVP",
+        "Wahlanteil": 0.7,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1935,
+        "Partei": "PdA",
+        "Wahlanteil": 1.4,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1935,
+        "Partei": "Übrige",
+        "Wahlanteil": 6.3,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1939,
+    "parties": [
+      {
+        "Year": 1939,
+        "Partei": "FDP",
+        "Wahlanteil": 20.7,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1939,
+        "Partei": "CVP",
+        "Wahlanteil": 17,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1939,
+        "Partei": "SP",
+        "Wahlanteil": 25.9,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1939,
+        "Partei": "SVP",
+        "Wahlanteil": 14.7,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1939,
+        "Partei": "Dem.",
+        "Wahlanteil": 2.7,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1939,
+        "Partei": "LPS",
+        "Wahlanteil": 1.7,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1939,
+        "Partei": "LdU",
+        "Wahlanteil": 7.1,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1939,
+        "Partei": "EVP",
+        "Wahlanteil": 0.9,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1939,
+        "Partei": "PdA",
+        "Wahlanteil": 2.6,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1939,
+        "Partei": "Übrige",
+        "Wahlanteil": 6.7,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1943,
+    "parties": [
+      {
+        "Year": 1943,
+        "Partei": "FDP",
+        "Wahlanteil": 22.5,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1943,
+        "Partei": "CVP",
+        "Wahlanteil": 20.8,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1943,
+        "Partei": "SP",
+        "Wahlanteil": 28.6,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1943,
+        "Partei": "SVP",
+        "Wahlanteil": 11.6,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1943,
+        "Partei": "Dem.",
+        "Wahlanteil": 3.4,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1943,
+        "Partei": "LPS",
+        "Wahlanteil": 3.2,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1943,
+        "Partei": "LdU",
+        "Wahlanteil": 5.5,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1943,
+        "Partei": "EVP",
+        "Wahlanteil": 0.4,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1943,
+        "Partei": "Übrige",
+        "Wahlanteil": 4,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1947,
+    "parties": [
+      {
+        "Year": 1947,
+        "Partei": "FDP",
+        "Wahlanteil": 23,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1947,
+        "Partei": "CVP",
+        "Wahlanteil": 21.2,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1947,
+        "Partei": "SP",
+        "Wahlanteil": 26.2,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1947,
+        "Partei": "SVP",
+        "Wahlanteil": 12.1,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1947,
+        "Partei": "Dem.",
+        "Wahlanteil": 2.9,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1947,
+        "Partei": "LPS",
+        "Wahlanteil": 3.2,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1947,
+        "Partei": "LdU",
+        "Wahlanteil": 4.4,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1947,
+        "Partei": "EVP",
+        "Wahlanteil": 0.9,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1947,
+        "Partei": "PdA",
+        "Wahlanteil": 5.1,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1947,
+        "Partei": "Übrige",
+        "Wahlanteil": 1,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1951,
+    "parties": [
+      {
+        "Year": 1951,
+        "Partei": "FDP",
+        "Wahlanteil": 24,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1951,
+        "Partei": "CVP",
+        "Wahlanteil": 22.5,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1951,
+        "Partei": "SP",
+        "Wahlanteil": 26,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1951,
+        "Partei": "SVP",
+        "Wahlanteil": 12.6,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1951,
+        "Partei": "Dem.",
+        "Wahlanteil": 2.2,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1951,
+        "Partei": "LPS",
+        "Wahlanteil": 2.6,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1951,
+        "Partei": "LdU",
+        "Wahlanteil": 5.1,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1951,
+        "Partei": "EVP",
+        "Wahlanteil": 1,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1951,
+        "Partei": "PdA",
+        "Wahlanteil": 2.7,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1951,
+        "Partei": "Übrige",
+        "Wahlanteil": 1.3,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1955,
+    "parties": [
+      {
+        "Year": 1955,
+        "Partei": "FDP",
+        "Wahlanteil": 23.3,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1955,
+        "Partei": "CVP",
+        "Wahlanteil": 23.2,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1955,
+        "Partei": "SP",
+        "Wahlanteil": 27,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1955,
+        "Partei": "SVP",
+        "Wahlanteil": 12.1,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1955,
+        "Partei": "Dem.",
+        "Wahlanteil": 2.2,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1955,
+        "Partei": "LPS",
+        "Wahlanteil": 2.2,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1955,
+        "Partei": "LdU",
+        "Wahlanteil": 5.5,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1955,
+        "Partei": "EVP",
+        "Wahlanteil": 1.1,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1955,
+        "Partei": "PdA",
+        "Wahlanteil": 2.6,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1955,
+        "Partei": "Übrige",
+        "Wahlanteil": 0.9,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1959,
+    "parties": [
+      {
+        "Year": 1959,
+        "Partei": "FDP",
+        "Wahlanteil": 23.7,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1959,
+        "Partei": "CVP",
+        "Wahlanteil": 23.3,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1959,
+        "Partei": "SP",
+        "Wahlanteil": 26.4,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1959,
+        "Partei": "SVP",
+        "Wahlanteil": 11.6,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1959,
+        "Partei": "Dem.",
+        "Wahlanteil": 2.2,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1959,
+        "Partei": "LPS",
+        "Wahlanteil": 2.3,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1959,
+        "Partei": "LdU",
+        "Wahlanteil": 5.5,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1959,
+        "Partei": "EVP",
+        "Wahlanteil": 1.4,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1959,
+        "Partei": "PdA",
+        "Wahlanteil": 2.7,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1959,
+        "Partei": "Übrige",
+        "Wahlanteil": 1,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1963,
+    "parties": [
+      {
+        "Year": 1963,
+        "Partei": "FDP",
+        "Wahlanteil": 23.9,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1963,
+        "Partei": "CVP",
+        "Wahlanteil": 23.4,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1963,
+        "Partei": "SP",
+        "Wahlanteil": 26.6,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1963,
+        "Partei": "SVP",
+        "Wahlanteil": 11.4,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1963,
+        "Partei": "Dem.",
+        "Wahlanteil": 1.8,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1963,
+        "Partei": "LPS",
+        "Wahlanteil": 2.2,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1963,
+        "Partei": "LdU",
+        "Wahlanteil": 5,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1963,
+        "Partei": "EVP",
+        "Wahlanteil": 1.6,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1963,
+        "Partei": "PdA",
+        "Wahlanteil": 2.2,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1963,
+        "Partei": "Übrige",
+        "Wahlanteil": 1.8,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1967,
+    "parties": [
+      {
+        "Year": 1967,
+        "Partei": "FDP",
+        "Wahlanteil": 23.2,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1967,
+        "Partei": "CVP",
+        "Wahlanteil": 22.1,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1967,
+        "Partei": "SP",
+        "Wahlanteil": 23.5,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1967,
+        "Partei": "SVP",
+        "Wahlanteil": 11,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1967,
+        "Partei": "Dem.",
+        "Wahlanteil": 1.4,
+        "Colour": "#B9166E"
+      },
+      {
+        "Year": 1967,
+        "Partei": "LPS",
+        "Wahlanteil": 2.3,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1967,
+        "Partei": "LdU",
+        "Wahlanteil": 9.1,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1967,
+        "Partei": "EVP",
+        "Wahlanteil": 1.6,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1967,
+        "Partei": "PdA",
+        "Wahlanteil": 2.9,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1967,
+        "Partei": "SD",
+        "Wahlanteil": 0.6,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 1967,
+        "Partei": "Rep.",
+        "Wahlanteil": 0.2,
+        "Colour": "#362102"
+      },
+      {
+        "Year": 1967,
+        "Partei": "Übrige",
+        "Wahlanteil": 2.1,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1971,
+    "parties": [
+      {
+        "Year": 1971,
+        "Partei": "FDP",
+        "Wahlanteil": 21.8,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1971,
+        "Partei": "CVP",
+        "Wahlanteil": 20.3,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1971,
+        "Partei": "SP",
+        "Wahlanteil": 22.9,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1971,
+        "Partei": "SVP",
+        "Wahlanteil": 11.1,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1971,
+        "Partei": "LPS",
+        "Wahlanteil": 2.2,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1971,
+        "Partei": "LdU",
+        "Wahlanteil": 7.6,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1971,
+        "Partei": "EVP",
+        "Wahlanteil": 2.1,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1971,
+        "Partei": "CSP",
+        "Wahlanteil": 0.3,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 1971,
+        "Partei": "PdA",
+        "Wahlanteil": 2.6,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1971,
+        "Partei": "PSA",
+        "Wahlanteil": 0.3,
+        "Colour": "#90240D"
+      },
+      {
+        "Year": 1971,
+        "Partei": "POCH",
+        "Wahlanteil": 0.1,
+        "Colour": "#AC4A4A"
+      },
+      {
+        "Year": 1971,
+        "Partei": "SD",
+        "Wahlanteil": 3.2,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 1971,
+        "Partei": "Rep.",
+        "Wahlanteil": 4.3,
+        "Colour": "#362102"
+      },
+      {
+        "Year": 1971,
+        "Partei": "Übrige",
+        "Wahlanteil": 1.2,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1975,
+    "parties": [
+      {
+        "Year": 1975,
+        "Partei": "FDP",
+        "Wahlanteil": 22.2,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1975,
+        "Partei": "CVP",
+        "Wahlanteil": 21.1,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1975,
+        "Partei": "SP",
+        "Wahlanteil": 24.9,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1975,
+        "Partei": "SVP",
+        "Wahlanteil": 9.9,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1975,
+        "Partei": "LPS",
+        "Wahlanteil": 2.4,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1975,
+        "Partei": "LdU",
+        "Wahlanteil": 6.1,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1975,
+        "Partei": "EVP",
+        "Wahlanteil": 2,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1975,
+        "Partei": "CSP",
+        "Wahlanteil": 0.1,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 1975,
+        "Partei": "PdA",
+        "Wahlanteil": 2.4,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1975,
+        "Partei": "PSA",
+        "Wahlanteil": 0.3,
+        "Colour": "#90240D"
+      },
+      {
+        "Year": 1975,
+        "Partei": "POCH",
+        "Wahlanteil": 1,
+        "Colour": "#AC4A4A"
+      },
+      {
+        "Year": 1975,
+        "Partei": "GPS",
+        "Wahlanteil": 0.1,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 1975,
+        "Partei": "SD",
+        "Wahlanteil": 2.5,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 1975,
+        "Partei": "Rep.",
+        "Wahlanteil": 3,
+        "Colour": "#362102"
+      },
+      {
+        "Year": 1975,
+        "Partei": "EDU",
+        "Wahlanteil": 0.3,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 1975,
+        "Partei": "Übrige",
+        "Wahlanteil": 1.7,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1979,
+    "parties": [
+      {
+        "Year": 1979,
+        "Partei": "FDP",
+        "Wahlanteil": 24,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1979,
+        "Partei": "CVP",
+        "Wahlanteil": 21.3,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1979,
+        "Partei": "SP",
+        "Wahlanteil": 24.4,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1979,
+        "Partei": "SVP",
+        "Wahlanteil": 11.6,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1979,
+        "Partei": "LPS",
+        "Wahlanteil": 2.8,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1979,
+        "Partei": "LdU",
+        "Wahlanteil": 4.1,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1979,
+        "Partei": "EVP",
+        "Wahlanteil": 2.2,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1979,
+        "Partei": "PdA",
+        "Wahlanteil": 2.1,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1979,
+        "Partei": "PSA",
+        "Wahlanteil": 0.4,
+        "Colour": "#90240D"
+      },
+      {
+        "Year": 1979,
+        "Partei": "POCH",
+        "Wahlanteil": 1.7,
+        "Colour": "#AC4A4A"
+      },
+      {
+        "Year": 1979,
+        "Partei": "GPS",
+        "Wahlanteil": 0.6,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 1979,
+        "Partei": "FGA",
+        "Wahlanteil": 0.2,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 1979,
+        "Partei": "SD",
+        "Wahlanteil": 1.3,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 1979,
+        "Partei": "Rep.",
+        "Wahlanteil": 0.6,
+        "Colour": "#362102"
+      },
+      {
+        "Year": 1979,
+        "Partei": "EDU",
+        "Wahlanteil": 0.3,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 1979,
+        "Partei": "Übrige",
+        "Wahlanteil": 2.3,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1983,
+    "parties": [
+      {
+        "Year": 1983,
+        "Partei": "FDP",
+        "Wahlanteil": 23.3,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1983,
+        "Partei": "CVP",
+        "Wahlanteil": 20.2,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1983,
+        "Partei": "SP",
+        "Wahlanteil": 22.8,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1983,
+        "Partei": "SVP",
+        "Wahlanteil": 11.1,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1983,
+        "Partei": "LPS",
+        "Wahlanteil": 2.8,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1983,
+        "Partei": "LdU",
+        "Wahlanteil": 4,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1983,
+        "Partei": "EVP",
+        "Wahlanteil": 2.1,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1983,
+        "Partei": "CSP",
+        "Wahlanteil": 0.4,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 1983,
+        "Partei": "PdA",
+        "Wahlanteil": 0.9,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1983,
+        "Partei": "PSA",
+        "Wahlanteil": 0.5,
+        "Colour": "#90240D"
+      },
+      {
+        "Year": 1983,
+        "Partei": "POCH",
+        "Wahlanteil": 2.2,
+        "Colour": "#AC4A4A"
+      },
+      {
+        "Year": 1983,
+        "Partei": "GPS",
+        "Wahlanteil": 1.9,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 1983,
+        "Partei": "FGA",
+        "Wahlanteil": 1,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 1983,
+        "Partei": "SD",
+        "Wahlanteil": 2.9,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 1983,
+        "Partei": "Rep.",
+        "Wahlanteil": 0.5,
+        "Colour": "#362102"
+      },
+      {
+        "Year": 1983,
+        "Partei": "EDU",
+        "Wahlanteil": 0.4,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 1983,
+        "Partei": "Übrige",
+        "Wahlanteil": 2.8,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1987,
+    "parties": [
+      {
+        "Year": 1987,
+        "Partei": "FDP",
+        "Wahlanteil": 22.9,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1987,
+        "Partei": "CVP",
+        "Wahlanteil": 19.6,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1987,
+        "Partei": "SP",
+        "Wahlanteil": 18.4,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1987,
+        "Partei": "SVP",
+        "Wahlanteil": 11,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1987,
+        "Partei": "LPS",
+        "Wahlanteil": 2.7,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1987,
+        "Partei": "LdU",
+        "Wahlanteil": 4.2,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1987,
+        "Partei": "EVP",
+        "Wahlanteil": 1.9,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1987,
+        "Partei": "CSP",
+        "Wahlanteil": 0.3,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 1987,
+        "Partei": "PdA",
+        "Wahlanteil": 0.8,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1987,
+        "Partei": "PSA",
+        "Wahlanteil": 0.6,
+        "Colour": "#90240D"
+      },
+      {
+        "Year": 1987,
+        "Partei": "POCH",
+        "Wahlanteil": 1.3,
+        "Colour": "#AC4A4A"
+      },
+      {
+        "Year": 1987,
+        "Partei": "GPS",
+        "Wahlanteil": 4.9,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 1987,
+        "Partei": "FGA",
+        "Wahlanteil": 2.4,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 1987,
+        "Partei": "SD",
+        "Wahlanteil": 2.5,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 1987,
+        "Partei": "Rep.",
+        "Wahlanteil": 0.3,
+        "Colour": "#362102"
+      },
+      {
+        "Year": 1987,
+        "Partei": "EDU",
+        "Wahlanteil": 0.9,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 1987,
+        "Partei": "FPS",
+        "Wahlanteil": 2.6,
+        "Colour": "#470404"
+      },
+      {
+        "Year": 1987,
+        "Partei": "Übrige",
+        "Wahlanteil": 2.6,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1991,
+    "parties": [
+      {
+        "Year": 1991,
+        "Partei": "FDP",
+        "Wahlanteil": 21,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1991,
+        "Partei": "CVP",
+        "Wahlanteil": 18,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1991,
+        "Partei": "SP",
+        "Wahlanteil": 18.5,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1991,
+        "Partei": "SVP",
+        "Wahlanteil": 11.9,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1991,
+        "Partei": "LPS",
+        "Wahlanteil": 3,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1991,
+        "Partei": "LdU",
+        "Wahlanteil": 2.8,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1991,
+        "Partei": "EVP",
+        "Wahlanteil": 1.9,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1991,
+        "Partei": "CSP",
+        "Wahlanteil": 0.4,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 1991,
+        "Partei": "PdA",
+        "Wahlanteil": 0.8,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1991,
+        "Partei": "PSA",
+        "Wahlanteil": 0.6,
+        "Colour": "#90240D"
+      },
+      {
+        "Year": 1991,
+        "Partei": "POCH",
+        "Wahlanteil": 0.2,
+        "Colour": "#AC4A4A"
+      },
+      {
+        "Year": 1991,
+        "Partei": "GPS",
+        "Wahlanteil": 6.1,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 1991,
+        "Partei": "FGA",
+        "Wahlanteil": 1.3,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 1991,
+        "Partei": "SD",
+        "Wahlanteil": 3.4,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 1991,
+        "Partei": "EDU",
+        "Wahlanteil": 1,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 1991,
+        "Partei": "FPS",
+        "Wahlanteil": 5.1,
+        "Colour": "#470404"
+      },
+      {
+        "Year": 1991,
+        "Partei": "Lega",
+        "Wahlanteil": 1.4,
+        "Colour": "#815bd4"
+      },
+      {
+        "Year": 1991,
+        "Partei": "Übrige",
+        "Wahlanteil": 2.7,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1995,
+    "parties": [
+      {
+        "Year": 1995,
+        "Partei": "FDP",
+        "Wahlanteil": 20.2,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1995,
+        "Partei": "CVP",
+        "Wahlanteil": 16.8,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1995,
+        "Partei": "SP",
+        "Wahlanteil": 21.8,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1995,
+        "Partei": "SVP",
+        "Wahlanteil": 14.9,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1995,
+        "Partei": "LPS",
+        "Wahlanteil": 2.7,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1995,
+        "Partei": "LdU",
+        "Wahlanteil": 1.8,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1995,
+        "Partei": "EVP",
+        "Wahlanteil": 1.8,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1995,
+        "Partei": "CSP",
+        "Wahlanteil": 0.3,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 1995,
+        "Partei": "PdA",
+        "Wahlanteil": 1.2,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1995,
+        "Partei": "GPS",
+        "Wahlanteil": 5,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 1995,
+        "Partei": "FGA",
+        "Wahlanteil": 1.5,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 1995,
+        "Partei": "Sol.",
+        "Wahlanteil": 0.3,
+        "Colour": "#A51E1E"
+      },
+      {
+        "Year": 1995,
+        "Partei": "SD",
+        "Wahlanteil": 3.1,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 1995,
+        "Partei": "EDU",
+        "Wahlanteil": 1.3,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 1995,
+        "Partei": "FPS",
+        "Wahlanteil": 4,
+        "Colour": "#470404"
+      },
+      {
+        "Year": 1995,
+        "Partei": "Lega",
+        "Wahlanteil": 0.9,
+        "Colour": "#815bd4"
+      },
+      {
+        "Year": 1995,
+        "Partei": "Übrige",
+        "Wahlanteil": 2.4,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 1999,
+    "parties": [
+      {
+        "Year": 1999,
+        "Partei": "FDP",
+        "Wahlanteil": 19.9,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 1999,
+        "Partei": "CVP",
+        "Wahlanteil": 15.9,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 1999,
+        "Partei": "SP",
+        "Wahlanteil": 22.5,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 1999,
+        "Partei": "SVP",
+        "Wahlanteil": 22.5,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 1999,
+        "Partei": "LPS",
+        "Wahlanteil": 2.3,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 1999,
+        "Partei": "LdU",
+        "Wahlanteil": 0.7,
+        "Colour": "#D4C42A"
+      },
+      {
+        "Year": 1999,
+        "Partei": "EVP",
+        "Wahlanteil": 1.8,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 1999,
+        "Partei": "CSP",
+        "Wahlanteil": 0.4,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 1999,
+        "Partei": "PdA",
+        "Wahlanteil": 1,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 1999,
+        "Partei": "GPS",
+        "Wahlanteil": 5,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 1999,
+        "Partei": "FGA",
+        "Wahlanteil": 0.3,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 1999,
+        "Partei": "Sol.",
+        "Wahlanteil": 0.5,
+        "Colour": "#A51E1E"
+      },
+      {
+        "Year": 1999,
+        "Partei": "SD",
+        "Wahlanteil": 1.8,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 1999,
+        "Partei": "EDU",
+        "Wahlanteil": 1.3,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 1999,
+        "Partei": "FPS",
+        "Wahlanteil": 0.9,
+        "Colour": "#470404"
+      },
+      {
+        "Year": 1999,
+        "Partei": "Lega",
+        "Wahlanteil": 0.9,
+        "Colour": "#815bd4"
+      },
+      {
+        "Year": 1999,
+        "Partei": "Übrige",
+        "Wahlanteil": 2.4,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 2003,
+    "parties": [
+      {
+        "Year": 2003,
+        "Partei": "FDP",
+        "Wahlanteil": 17.3,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 2003,
+        "Partei": "CVP",
+        "Wahlanteil": 14.4,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 2003,
+        "Partei": "SP",
+        "Wahlanteil": 23.3,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 2003,
+        "Partei": "SVP",
+        "Wahlanteil": 26.7,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 2003,
+        "Partei": "LPS",
+        "Wahlanteil": 2.2,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 2003,
+        "Partei": "EVP",
+        "Wahlanteil": 2.3,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 2003,
+        "Partei": "CSP",
+        "Wahlanteil": 0.4,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 2003,
+        "Partei": "PdA",
+        "Wahlanteil": 0.7,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 2003,
+        "Partei": "GPS",
+        "Wahlanteil": 7.4,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 2003,
+        "Partei": "FGA",
+        "Wahlanteil": 0.5,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 2003,
+        "Partei": "Sol.",
+        "Wahlanteil": 0.5,
+        "Colour": "#A51E1E"
+      },
+      {
+        "Year": 2003,
+        "Partei": "SD",
+        "Wahlanteil": 1,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 2003,
+        "Partei": "EDU",
+        "Wahlanteil": 1.3,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 2003,
+        "Partei": "FPS",
+        "Wahlanteil": 0.2,
+        "Colour": "#470404"
+      },
+      {
+        "Year": 2003,
+        "Partei": "Lega",
+        "Wahlanteil": 0.4,
+        "Colour": "#815bd4"
+      },
+
+      {
+        "Year": 2003,
+        "Partei": "Übrige",
+        "Wahlanteil": 1.6,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 2007,
+    "parties": [
+      {
+        "Year": 2007,
+        "Partei": "FDP",
+        "Wahlanteil": 15.8,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 2007,
+        "Partei": "CVP",
+        "Wahlanteil": 14.5,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 2007,
+        "Partei": "SP",
+        "Wahlanteil": 19.5,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 2007,
+        "Partei": "SVP",
+        "Wahlanteil": 28.9,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 2007,
+        "Partei": "LPS",
+        "Wahlanteil": 1.9,
+        "Colour": "#1E3CA7"
+      },
+      {
+        "Year": 2007,
+        "Partei": "EVP",
+        "Wahlanteil": 2.4,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 2007,
+        "Partei": "CSP",
+        "Wahlanteil": 0.4,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 2007,
+        "Partei": "GLP",
+        "Wahlanteil": 1.4,
+        "Colour": "#C4C429"
+      },
+      {
+        "Year": 2007,
+        "Partei": "PdA",
+        "Wahlanteil": 0.7,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 2007,
+        "Partei": "GPS",
+        "Wahlanteil": 9.6,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 2007,
+        "Partei": "FGA",
+        "Wahlanteil": 0.2,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 2007,
+        "Partei": "Sol.",
+        "Wahlanteil": 0.4,
+        "Colour": "#A51E1E"
+      },
+      {
+        "Year": 2007,
+        "Partei": "SD",
+        "Wahlanteil": 0.5,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 2007,
+        "Partei": "EDU",
+        "Wahlanteil": 1.3,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 2007,
+        "Partei": "FPS",
+        "Wahlanteil": 0.1,
+        "Colour": "#470404"
+      },
+      {
+        "Year": 2007,
+        "Partei": "Lega",
+        "Wahlanteil": 0.6,
+        "Colour": "#815bd4"
+      },
+      {
+        "Year": 2007,
+        "Partei": "MCR",
+        "Wahlanteil": 0.1,
+        "Colour": "#393939"
+      },
+      {
+        "Year": 2007,
+        "Partei": "Übrige",
+        "Wahlanteil": 1.7,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 2011,
+    "parties": [
+      {
+        "Year": 2011,
+        "Partei": "FDP",
+        "Wahlanteil": 15.1,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 2011,
+        "Partei": "CVP",
+        "Wahlanteil": 12.3,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 2011,
+        "Partei": "SP",
+        "Wahlanteil": 18.7,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 2011,
+        "Partei": "SVP",
+        "Wahlanteil": 26.6,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 2011,
+        "Partei": "EVP",
+        "Wahlanteil": 2,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 2011,
+        "Partei": "CSP",
+        "Wahlanteil": 0.3,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 2011,
+        "Partei": "GLP",
+        "Wahlanteil": 5.4,
+        "Colour": "#C4C429"
+      },
+      {
+        "Year": 2011,
+        "Partei": "BDP",
+        "Wahlanteil": 5.4,
+        "Colour": "#E6C409"
+      },
+      {
+        "Year": 2011,
+        "Partei": "PdA",
+        "Wahlanteil": 0.5,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 2011,
+        "Partei": "GPS",
+        "Wahlanteil": 8.4,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 2011,
+        "Partei": "FGA",
+        "Wahlanteil": 0.3,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 2011,
+        "Partei": "Sol.",
+        "Wahlanteil": 0.3,
+        "Colour": "#A51E1E"
+      },
+      {
+        "Year": 2011,
+        "Partei": "SD",
+        "Wahlanteil": 0.2,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 2011,
+        "Partei": "EDU",
+        "Wahlanteil": 1.3,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 2011,
+        "Partei": "Lega",
+        "Wahlanteil": 0.8,
+        "Colour": "#815bd4"
+      },
+      {
+        "Year": 2011,
+        "Partei": "MCR",
+        "Wahlanteil": 0.4,
+        "Colour": "#393939"
+      },
+      {
+        "Year": 2011,
+        "Partei": "Übrige",
+        "Wahlanteil": 1.9,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 2015,
+    "parties": [
+      {
+        "Year": 2015,
+        "Partei": "FDP",
+        "Wahlanteil": 16.4,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 2015,
+        "Partei": "CVP",
+        "Wahlanteil": 11.6,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 2015,
+        "Partei": "SP",
+        "Wahlanteil": 18.8,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 2015,
+        "Partei": "SVP",
+        "Wahlanteil": 29.4,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 2015,
+        "Partei": "EVP",
+        "Wahlanteil": 1.9,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 2015,
+        "Partei": "CSP",
+        "Wahlanteil": 0.2,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 2015,
+        "Partei": "GLP",
+        "Wahlanteil": 4.6,
+        "Colour": "#C4C429"
+      },
+      {
+        "Year": 2015,
+        "Partei": "BDP",
+        "Wahlanteil": 4.1,
+        "Colour": "#E6C409"
+      },
+      {
+        "Year": 2015,
+        "Partei": "PdA",
+        "Wahlanteil": 0.4,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 2015,
+        "Partei": "GPS",
+        "Wahlanteil": 7.1,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 2015,
+        "Partei": "FGA",
+        "Wahlanteil": 0.4,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 2015,
+        "Partei": "Sol.",
+        "Wahlanteil": 0.5,
+        "Colour": "#A51E1E"
+      },
+      {
+        "Year": 2015,
+        "Partei": "SD",
+        "Wahlanteil": 0.1,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 2015,
+        "Partei": "EDU",
+        "Wahlanteil": 1.2,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 2015,
+        "Partei": "Lega",
+        "Wahlanteil": 1,
+        "Colour": "#815bd4"
+      },
+      {
+        "Year": 2015,
+        "Partei": "MCR",
+        "Wahlanteil": 0.3,
+        "Colour": "#393939"
+      },
+      {
+        "Year": 2015,
+        "Partei": "Übrige",
+        "Wahlanteil": 2,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  },
+  {
+    "Year": 2019,
+    "parties": [
+      {
+        "Year": 2019,
+        "Partei": "FDP",
+        "Wahlanteil": 15.1,
+        "Colour": "#2669b5"
+      },
+      {
+        "Year": 2019,
+        "Partei": "CVP",
+        "Wahlanteil": 11.4,
+        "Colour": "#d67c15"
+      },
+      {
+        "Year": 2019,
+        "Partei": "SP",
+        "Wahlanteil": 16.8,
+        "Colour": "#f04941"
+      },
+      {
+        "Year": 2019,
+        "Partei": "SVP",
+        "Wahlanteil": 25.6,
+        "Colour": "#3f8a30"
+      },
+      {
+        "Year": 2019,
+        "Partei": "EVP",
+        "Wahlanteil": 2.1,
+        "Colour": "#dea412"
+      },
+      {
+        "Year": 2019,
+        "Partei": "CSP",
+        "Wahlanteil": 0.3,
+        "Colour": "#1EE7C2"
+      },
+      {
+        "Year": 2019,
+        "Partei": "GLP",
+        "Wahlanteil": 7.8,
+        "Colour": "#C4C429"
+      },
+      {
+        "Year": 2019,
+        "Partei": "BDP",
+        "Wahlanteil": 2.4,
+        "Colour": "#E6C409"
+      },
+      {
+        "Year": 2019,
+        "Partei": "PdA",
+        "Wahlanteil": 0.6,
+        "Colour": "#E05637"
+      },
+      {
+        "Year": 2019,
+        "Partei": "GPS",
+        "Wahlanteil": 13.2,
+        "Colour": "#7bb535"
+      },
+      {
+        "Year": 2019,
+        "Partei": "FGA",
+        "Wahlanteil": 0.3,
+        "Colour": "#86B87E"
+      },
+      {
+        "Year": 2019,
+        "Partei": "Sol.",
+        "Wahlanteil": 0.5,
+        "Colour": "#A51E1E"
+      },
+      {
+        "Year": 2019,
+        "Partei": "SD",
+        "Wahlanteil": 0.1,
+        "Colour": "#182F49"
+      },
+      {
+        "Year": 2019,
+        "Partei": "EDU",
+        "Wahlanteil": 1,
+        "Colour": "#89490E"
+      },
+      {
+        "Year": 2019,
+        "Partei": "Lega",
+        "Wahlanteil": 0.8,
+        "Colour": "#815bd4"
+      },
+      {
+        "Year": 2019,
+        "Partei": "MCR",
+        "Wahlanteil": 0.2,
+        "Colour": "#393939"
+      },
+      {
+        "Year": 2019,
+        "Partei": "Übrige",
+        "Wahlanteil": 1.8,
+        "Colour": "#d1d1d1"
+      }
+    ]
+  }
+]
