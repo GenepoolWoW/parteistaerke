@@ -56,6 +56,7 @@ export default {
 }
 .text {
   font-size: 24px;
+  margin-left: 0px;
 }
   .wrapper {
     display: flex;
